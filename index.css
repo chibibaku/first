@@ -1,0 +1,41 @@
+html {
+    text-align: center;
+    list-style: inside; 
+}
+
+
+body {
+    background-color: #aecaec;
+}
+
+.image{
+    background-color: aqua;
+    max-width: 600px;
+    font-size:20px;
+    display:block;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align:center;
+    border:10px solid;
+    border-color:#aaaaaa #444444 #444444 #aaaaaa;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image:hover{
+    background-color: aqua;
+    max-width: 600px;
+    font-size:20px;
+    display:block;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align:center;
+    border:10px solid;
+    border-color: #444444 #aaaaaa #aaaaaa #444444;
+    margin-left: auto;
+    margin-right: auto;
+}
